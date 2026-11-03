@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://erwin-afk.github.io
+Sitemap: https://erwin-afk.github.io/sitemap.xml
